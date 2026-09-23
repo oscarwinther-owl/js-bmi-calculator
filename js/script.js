@@ -52,7 +52,8 @@ function beregnBMI(weight, height) {
 }
 
 beregnBMI(80, 1.9);
-beregnBMI(60, 1.9);
+beregnBMI(53, 1.65);
+beregnBMI(52, 1.69);
 
 // Skriv selv: kald funktionen 2-3 gange mere med andre kombinationer af weight og height,
 // så du selv kan se de øvrige kategorier blive testet i konsollen.
